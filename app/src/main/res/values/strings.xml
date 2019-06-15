@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SpinnerCustomAdapterDemo</string>
+    <string-array name="citieArrayList">
+        <item>Ahemdabad</item>
+        <item>Bharuch</item>
+        <item>Surat</item>
+        <item>Vadodra</item>
+        <item>Valsad</item>
+    </string-array>
+    <string-array name="surat_area">
+        <item>Surat1</item>
+        <item>Surat2</item>
+        <item>Surat3</item>
+    </string-array>
+    <string-array name="valsad_area">
+        <item>Valsad1</item>
+        <item>Valsad2</item>
+        <item>Valsad3</item>
+    </string-array>
+    <string-array name="vadodra_area">
+        <item>Vadodra1</item>
+        <item>Vadodra2</item>
+        <item>Vadodra3</item>
+    </string-array>
+    <string-array name="bharuch_area">
+        <item>Bharuch1</item>
+        <item>Bharuch2</item>
+        <item>Bharuch3</item>
+    </string-array>
+    <string-array name="ahmedabad_area">
+        <item>Ahmedabad1</item>
+        <item>Ahmedabad2</item>
+        <item>Ahmedabad3</item>
+    </string-array>
+</resources>
